@@ -1,0 +1,1 @@
+Dir["#{File.dirname(__FILE__)}/tests/*.rb"].each {|file| require_relative file }

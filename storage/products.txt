@@ -1,0 +1,4 @@
+1, Coca-Cola, 5.25, 5
+2, Pepsi,     7.75, 3
+3, Fanta,     5.25, 0
+4, Sprite,    6.5,  10
